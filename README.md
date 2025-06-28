@@ -34,6 +34,5 @@ Tenho atenção aos detalhes e foco em entregar qualidade real nos processos de 
 
 ## 📫 Contato
 
-- ✉️ augusto@email.com
 - 🔗 [LinkedIn](https://linkedin.com/in/seu-link-aqui)
 - 🌐 [Site Pessoal](https://seusite.com)
