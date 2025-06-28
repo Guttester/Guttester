@@ -32,7 +32,4 @@ Tenho atenção aos detalhes e foco em entregar qualidade real nos processos de 
 
 - [UEG Smart](https://uegsmart.online/) – Plataforma de gestão acadêmica de projetos MEI.
 
-## 📫 Contato
-
-- 🔗 [LinkedIn](https://linkedin.com/in/seu-link-aqui)
-- 🌐 [Site Pessoal](https://seusite.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guttester&layout=compact&theme=radical)
