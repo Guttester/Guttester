@@ -2,7 +2,6 @@
 
 Sou apaixonado por transformar ideias em sistemas funcionais, responsivos e bem testados.  
 Como analista de sistemas (QA), minhas principais habilidades incluem: **Gherkin**, **Cucumber**, **TDD**, **BDD**, **Postman** e **Selenium**.  
-Tenho atenção aos detalhes e foco em entregar qualidade real nos processos de desenvolvimento.
 
 ## 🧠 Sobre mim
 
