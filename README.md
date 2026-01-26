@@ -6,7 +6,7 @@ Tenho atenção aos detalhes e foco em entregar qualidade real nos processos de 
 
 ## 🧠 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+- 🎓 Bacharel em Sistemas de Informação.
 - 💼 Atuo com QA, tenho conhecimentos em desenvolvimento fullstack e reactive native para mobile.
 - 🎨 Experiência com prototipação em Figma (UX Design).
 - 🤖 Explorando inteligência artificial e automação criativa.
