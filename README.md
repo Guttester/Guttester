@@ -1,5 +1,3 @@
-
-
 # 👋 Olá, sou Augusto Henrique!
 
 **Analista de Qualidade de Software (QA)** com foco em automação de testes, validação de APIs e garantia de entregas robustas no backend e frontend. 
@@ -9,24 +7,21 @@
   <img src="https://img.shields.io/badge/EXPERI%C3%8ANACIA-3%2B_ANOS-1f6beb?style=for-the-badge&logo=line&logoColor=white&labelColor=121212" alt="Experiência" />
   <img src="https://img.shields.io/badge/CERTIFIED-CTFL-FF6600?style=for-the-badge&logo=checkmarx&logoColor=00FF66&labelColor=121212" alt="Certificação CTFL" />
 </div>
-
 <p align="center">&nbsp;</p>
 
 ## 🧠 Sobre mim
 
 Bacharel em Sistemas de Informação e QA com foco na prevenção de falhas e entrega de software de alto valor. Atuo na área desde 2022 com testes manuais e automatizados, cobrindo o ciclo de desenvolvimento desde a definição de requisitos até a validação final.
 
-* **Foco Técnico:** Automação Web, Mobile e APIs (Contrato, Integração e Regressão).
-* **Cultura & Práticas:** BDD, TDD, Shift-Left Testing e Integração Contínua em ambientes Scrum/Kanban.
+* **Foco Técnico:** Automação e testes manuais para Web, Mobile e APIs (Testes Funcionais, Integração e Regressão).
+* **Cultura & Práticas:** Metodologias Ágeis (Scrum/Kanban), Shift-Left Testing, BDD, TDD e alinhamento com regras de negócio.
 * **Soft Skills:** Raciocínio analítico, atenção minuciosa a detalhes e objetividade na documentação de falhas.
-
+  
 ## ⚙️ Engenharia de QA na Prática
 
 * **Garantia Preventiva:** Refinamento técnico e definição de critérios de aceite claros usando **BDD/Gherkin**.
 * **Automação & Escala:** Suítes automatizadas para testes regressivos web e de API, reduzindo o tempo de execução e acelerando o deploy.
 * **Gestão de Ciclo de Vida:** Mapeamento de cenários críticos, geração de massa de dados e acompanhamento ponta a ponta de bugs no **Jira/Octane**.
-
-<p align="center">&nbsp;</p>
 
 ## 🔧 Ferramentas & Tecnologias
 
@@ -48,8 +43,6 @@ Bacharel em Sistemas de Informação e QA com foco na prevenção de falhas e en
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-6A1B9A?style=flat-square&logo=figma&logoColor=white)
-
-<p align="center">&nbsp;</p>
 
 ## 📬 Conecte-se comigo
 
