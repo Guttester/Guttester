@@ -14,12 +14,11 @@
 
 ## 🧠 Sobre mim
 
-Bacharel em Sistemas de Informação e QA com 3+ anos de experiência na prevenção de falhas e entrega de software de alto valor. Atuo na liderança técnica da qualidade desde a concepção dos requisitos (Shift-Left) até a validação final em produção.
+Bacharel em Sistemas de Informação e QA com foco na prevenção de falhas e entrega de software de alto valor. Atuo na área desde 2022 com testes manuais e automatizados, cobrindo o ciclo de desenvolvimento desde a definição de requisitos até a validação final.
 
 * **Foco Técnico:** Automação Web, Mobile e APIs (Contrato, Integração e Regressão).
 * **Cultura & Práticas:** BDD, TDD, Shift-Left Testing e Integração Contínua em ambientes Scrum/Kanban.
-* **Soft Skills:** Raciocínio analítico, comunicação clara entre devs e produto, e foco refinado na regra de negócio.
-
+* **Soft Skills:** Raciocínio analítico, atenção minuciosa a detalhes e objetividade na documentação de falhas.
 
 ## ⚙️ Engenharia de QA na Prática
 
